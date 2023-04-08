@@ -8,7 +8,6 @@
 ## 安装方式
 
 ```shell
-brew tap mrered/cloudflarest
 brew install mrered/cloudflarest/cfstarm64
 ```
 
