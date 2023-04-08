@@ -5,7 +5,6 @@ class Arm64 < Formula
   sha256 "75e8996768dc5caff382bc8eeec64b6002675d82ba6816e0d8c75d9744761c28"
   version "2.2.2"
   license "GPL-3.0"
-  bottle :unneeded
 
   def install
     bin.install "CloudflareST"
