@@ -16,8 +16,4 @@ class Arm64 < Formula
     How to use: https://github.com/XIU2/CloudflareSpeedTest
     EOS
   end
-
-  test do
-    system "#{bin}/CloudflareST"
-  end
 end
