@@ -1,0 +1,2 @@
+# homebrew-cloudflarest
+尝试给CloudflareSpeedTest配置brew支持
